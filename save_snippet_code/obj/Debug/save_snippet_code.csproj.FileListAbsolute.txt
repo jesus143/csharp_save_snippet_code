@@ -1,0 +1,10 @@
+E:\my project\c#\save_snippet_code\save_snippet_code\bin\Debug\save_snippet_code.exe.config
+E:\my project\c#\save_snippet_code\save_snippet_code\bin\Debug\save_snippet_code.exe
+E:\my project\c#\save_snippet_code\save_snippet_code\bin\Debug\save_snippet_code.pdb
+E:\my project\c#\save_snippet_code\save_snippet_code\obj\Debug\save_snippet_code.csprojResolveAssemblyReference.cache
+E:\my project\c#\save_snippet_code\save_snippet_code\obj\Debug\save_snippet_code.Form1.resources
+E:\my project\c#\save_snippet_code\save_snippet_code\obj\Debug\save_snippet_code.Properties.Resources.resources
+E:\my project\c#\save_snippet_code\save_snippet_code\obj\Debug\save_snippet_code.csproj.GenerateResource.Cache
+E:\my project\c#\save_snippet_code\save_snippet_code\obj\Debug\save_snippet_code.exe
+E:\my project\c#\save_snippet_code\save_snippet_code\obj\Debug\save_snippet_code.pdb
+E:\my project\c#\save_snippet_code\save_snippet_code\bin\Debug\MySql.Data.dll
